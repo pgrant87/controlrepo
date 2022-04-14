@@ -19,6 +19,8 @@ mod 'puppetlabs-inifile', '5.2.0'
 mod 'puppetlabs-cd4pe_jobs', '1.6.0'
 mod 'puppetlabs-docker', '4.2.1'
 
+#test
+
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 #mod 'apache',
